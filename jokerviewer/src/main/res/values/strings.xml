@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joker Viewer</string>
+    <string name="joke_template">\"%1$s\"</string>
+</resources>
